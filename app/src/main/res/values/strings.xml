@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FormTastic</string>
+    <string name="namadepan">NAMA DEPAN</string>
+    <string name="namabelakang">NAMA BELAKANG</string>
+    <string name="alamatemail">ALAMAT E-MAIL</string>
+    <string name="jenkel">JENIS KELAMIN</string>
+    <string name="password">BUAT PASSWORD</string>
+    <string name="repassword">ULANGI PASSWORD YANG BARU DITULIS</string>
+    <string name="checkbox">Saya telah membaca, memahami dan menyetujui <font color='#06069B'>Kebijakan Privasi</font> dan <font color='#06069B'>Syarat dan Ketentuan</font></string>
+    <string name="daftar">DAFTAR</string>
+    <string name="nama_depan_anda">Nama depan anda</string>
+    <string name="nama_belakang_anda">Nama belakang anda</string>
+    <string name="nama_domain_com">nama@domain.com</string>
+    <string name="password_kecil">password</string>
+    <string name="custom_title">Tunggu...</string>
+</resources>
